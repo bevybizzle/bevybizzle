@@ -1,5 +1,5 @@
-- Hi, my name is Ryan Bevin
-- I’m interested in breaking things 😅
+- Hi, my name is **Ryan Bevin**
+- I’m interested in learning by breaking things 😅
 - I always create scripts and lose them, hopefully keeping them here will solve that and maybe benefit some other people too!
 
 <!---
