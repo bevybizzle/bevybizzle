@@ -1,4 +1,6 @@
-**Hello!** welcome to my GitHub page! My name is Ryan Bevin. I'm an Embedded Software Engineer from Northern Ireland.
+**Hello!** welcome to my GitHub page! 
+
+My name is Ryan Bevin. I'm an Embedded Software Engineer from Northern Ireland.
 
 **What do I know?** I only know one thing for sure... and that is that I know nothing!
 
@@ -11,6 +13,8 @@
 What else... I can't think of anything! If you want to know anymore **just ask!**
 
 **Thanks for Reading!**
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 <!---
 rbevin777/rbevin777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
