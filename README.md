@@ -1,8 +1,8 @@
 **Hello!** welcome to my GitHub page! 
 
-My name is Ryan Bevin. I'm an Embedded Software Engineer from Northern Ireland.
+My name is Ryan Bevin. I'm a PhD Student from Northern Ireland.
 
-**What do I know?** I only know one thing for sure... and that is that I know nothing!
+**What do I know?** I only know one thing for sure... and that is that I know nothing.
 
 **How did I get into programming/coding?** Arduino! Actually I was studying and learning ladder logic for PLCs and I enjoyed that so my lecturer suggested getting an Arduino Uno, then bada *bing* bada **boom!**
 
